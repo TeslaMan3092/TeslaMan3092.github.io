@@ -1,2 +1,2 @@
 # TeslaMan3092.github.io
-we-0i980eruvtrsjtorieyidfiugunmhlljj
+My repo to host debs i find. Makes it eaiser to share them :)
