@@ -1,1 +1,8 @@
-
+Origin: TeslaMan3092
+Label: TeslaMan3092
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: TeslaMan3092
